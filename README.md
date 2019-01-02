@@ -1,2 +1,2 @@
 # MyLibrary
-Gragh &amp; data structer &amp; math &amp; geometry
+Gragh &amp; data structure &amp; math &amp; geometry
